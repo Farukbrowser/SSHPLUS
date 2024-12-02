@@ -1,11 +1,5 @@
 # SSHPLUS
-
-
-free code.. you can edit it as you like
-
-telegram script
-Telegram Account about VPS droplet
-@frkbrowser 
+@frkbrowser via telegram
 
 Installation Command
   ```html
