@@ -9,5 +9,5 @@ Telegram Account about VPS droplet
 
 Installation Command
   ```html
-wget https://raw.githubusercontent.com/vpsvip7/SSHPLUS/main/Plus && chmod 777 Plus && ./Plus
+wget https://raw.githubusercontent.com/farukbrowser/SSHPLUS/main/Plus && chmod 777 Plus && ./Plus
 ```
